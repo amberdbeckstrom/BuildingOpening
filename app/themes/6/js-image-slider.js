@@ -13,8 +13,8 @@ var sliderOptions=
 	captionOpacity: 1,
 	captionEffect: "fade",
 	thumbnailsWrapperId: "thumbs",
-	// m: false,
-	// license: "mylicense"
+	m: false,
+	license: "b6t80"
 };
 
 var imageSlider=new mcImgSlider(sliderOptions);
